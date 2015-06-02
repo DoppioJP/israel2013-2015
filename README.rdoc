@@ -1,28 +1,10 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Based on Yehuda Katz talk @ Rails Israel 2013.
+http://confreaks.tv/videos/railsisrael2013-off-the-menu-building-a-client-side-with-ember-and-rails
 
-Things you may want to cover:
+Code is using the latest 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Ember      : 2.0.0-beta.1+canary.5c0fb159
+Ember Data : 1.0.0-beta.19+canary.c2f44b0b5c
+jQuery     : 1.11.2
